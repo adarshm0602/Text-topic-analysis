@@ -5,7 +5,7 @@ using NLP and ML algorithms.
 
 
 
-# 📊 Text Classification Model Report
+# 📊 Text Classification Model Report (supervised learning methods)
 
 **Total documents used:** 58
 
