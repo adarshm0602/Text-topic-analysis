@@ -1,0 +1,2 @@
+# Artificial Intelligence
+Facial recognition uses AI models to identify individuals.

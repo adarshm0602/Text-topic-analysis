@@ -1,0 +1,2 @@
+# Artificial Intelligence
+Natural language processing is an AI technique for text analysis.

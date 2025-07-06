@@ -1,0 +1,2 @@
+# Economy
+Economic indicators help predict market trends.

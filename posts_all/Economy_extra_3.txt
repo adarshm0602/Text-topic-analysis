@@ -1,0 +1,2 @@
+# Economy
+Stock markets fluctuate based on economic news and reports.

@@ -1,0 +1,2 @@
+# AI
+AI’s helping farmers in India predict crop yields with 85% accuracy. Precision agriculture could boost food security big time!

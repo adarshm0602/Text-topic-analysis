@@ -1,0 +1,2 @@
+# Artificial Intelligence
+AI algorithms are used in self-driving cars for decision-making.

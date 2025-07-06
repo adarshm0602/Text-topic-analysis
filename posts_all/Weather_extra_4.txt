@@ -1,0 +1,2 @@
+# Weather
+Weather apps help people plan their outdoor activities.

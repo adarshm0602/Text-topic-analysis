@@ -1,0 +1,2 @@
+# AI
+Deep learning algorithms are now forecasting air pollution in India with crazy precision. AI could be a game-changer for clean air![](https://pmc.ncbi.nlm.nih.gov/articles/PMC11369276/)
