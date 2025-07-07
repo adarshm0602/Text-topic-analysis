@@ -1,67 +1,6 @@
 # Text-topic-analysis
 using NLP and ML algorithms.
 
-# 📊 Unsupervised Text Clustering Report
-
-**Total documents used:** 59
-
-**Vectorization:** TF-IDF (max 1000 features, bigrams, min_df=2, max_df=0.8)
-
-**Optimal number of clusters:** 10
-
-
-## ✅ K-Means
-
-- **Silhouette Score:** 0.33
-
-- **Adjusted Rand Index:** 0.06
-
-- **Number of Clusters:** 10
-
-
-## ✅ Hierarchical
-
-- **Silhouette Score:** 0.33
-
-- **Adjusted Rand Index:** 0.08
-
-- **Number of Clusters:** 10
-
-
-## ✅ DBSCAN
-
-- **Silhouette Score:** 0.06
-
-- **Adjusted Rand Index:** 0.05
-
-- **Number of Clusters:** 2
-
-
-## ✅ Gaussian Mixture
-
-- **Silhouette Score:** 0.30
-
-- **Adjusted Rand Index:** 0.10
-
-- **Number of Clusters:** 10
-
-
-## ✅ LDA
-
-- **Silhouette Score:** 0.76
-
-- **Adjusted Rand Index:** 0.04
-
-- **Number of Clusters:** 10
-
-
-🏆 **Best Performing Algorithm:** LDA with a Silhouette Score of 0.76
-
-
-
-
-
-
 # 📊 Supervised Model Comparison Report
 
 **Total documents used:** 58
@@ -128,4 +67,67 @@ general message       1.00      0.50      0.67         2
    weighted avg       0.83      0.75      0.75        12
 
 ```
+
+
+
+# 📊 Unsupervised Text Clustering Report
+
+**Total documents used:** 59
+
+**Vectorization:** TF-IDF (max 1000 features, bigrams, min_df=2, max_df=0.8)
+
+**Optimal number of clusters:** 10
+
+
+## ✅ K-Means
+
+- **Silhouette Score:** 0.33
+
+- **Adjusted Rand Index:** 0.06
+
+- **Number of Clusters:** 10
+
+
+## ✅ Hierarchical
+
+- **Silhouette Score:** 0.33
+
+- **Adjusted Rand Index:** 0.08
+
+- **Number of Clusters:** 10
+
+
+## ✅ DBSCAN
+
+- **Silhouette Score:** 0.06
+
+- **Adjusted Rand Index:** 0.05
+
+- **Number of Clusters:** 2
+
+
+## ✅ Gaussian Mixture
+
+- **Silhouette Score:** 0.30
+
+- **Adjusted Rand Index:** 0.10
+
+- **Number of Clusters:** 10
+
+
+## ✅ LDA
+
+- **Silhouette Score:** 0.76
+
+- **Adjusted Rand Index:** 0.04
+
+- **Number of Clusters:** 10
+
+
+🏆 **Best Performing Algorithm:** LDA with a Silhouette Score of 0.76
+
+
+
+
+
 
