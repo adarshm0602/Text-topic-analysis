@@ -1,0 +1,2 @@
+# Machine learning
+Machine learning is revolutionizing AQI predictions in Indian cities like Ahmedabad. Accurate forecasts can save lives!

@@ -17,36 +17,14 @@ def clean_text(text):
     return text.split()
 
 def extract_topic(tfidf_scores):
-    
-    
     sorted_words = sorted(tfidf_scores.items(), key=lambda x: x[1], reverse=True)  
-    top_words = [word for word, score in sorted_words[:6] if not word.isnumeric()]  
-
-    potential_names = []
-    multiple_topics_detected = False
+    top_words = [word for word, score in sorted_words[:3] if not word.isnumeric()] 
     
-    for i in range(len(top_words) - 1):
-        word1 = top_words[i]
-        word2 = top_words[i + 1]
-        potential_names.append(f"{word1} {word2}")  
-
-
-    scores = [score for _, score in sorted_words[:6]]
-
+    if not top_words:
+        return "Could not determine a clear topic."
     
-    if max(scores) - min(scores) < 0.0001:  
-        return "This text is a general message."
-
-    if len(sorted_words) >= 2 and abs(sorted_words[0][1] - sorted_words[1][1]) > 0.02:
-        multiple_topics_detected = True
-
-    if len(top_words) == 1:
-        topic = f"This text is about {top_words[0]} (single topic)."
-    elif multiple_topics_detected:
-        topic = f"This text discusses multiple topics: {', '.join(top_words[:3])}."
-    else:
-        topic = f"This text is about {potential_names[0]}."
-
+    topic = " ".join(top_words)
+    
     return topic
 
 def main():

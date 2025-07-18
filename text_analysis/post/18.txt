@@ -1,0 +1,12 @@
+//Cybersecurity
+In an age where data breaches and digital threats are evolving faster than ever, cybersecurity is no longer just an IT concern - it's a business survival strategy.  
+Whether you're a startup or an enterprise, your data is one of your most valuable assets. But without the right safeguards, it's also your biggest vulnerability.  
+
+Here's what every organization should prioritize:  
+- Multi-factor authentication  
+- Regular security audits  
+- Employee training on phishing and social engineering  
+- Strong data backup and recovery plans  
+
+Remember: Cybersecurity isn't just about technology. It's about mindset.  
+Stay aware. Stay protected.

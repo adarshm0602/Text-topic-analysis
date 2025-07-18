@@ -1,0 +1,2 @@
+# AI
+AI powered drones are monitoring air quality in Indian smart cities. Real-time data could drive better pollution policies.

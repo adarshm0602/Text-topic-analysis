@@ -1,0 +1,8 @@
+# coding, project, bugs, deadline, compile
+Pulled an all-nighter debugging this project.  
+The code refused to compile until the last minute.  
+Deadlines make me productive (and chaotic).  
+Finally fixed the bugs and pushed the update.  
+Now it runs like a dream.  
+Coding is pain and pleasure in equal parts.  
+Need sleep but proud of this one!
